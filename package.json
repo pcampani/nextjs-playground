@@ -1,0 +1,13 @@
+{
+  "name": "next-playground",
+  "version": "1.0.0",
+  "description": "Next JS ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC"
+}
